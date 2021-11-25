@@ -1,2 +1,1 @@
-# demo
-This is demo
+# course
